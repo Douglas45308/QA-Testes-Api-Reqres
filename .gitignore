@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+dist/
+build/
+
+# Robot Framework
+output.xml
+log.html
+report.html
+*.log
+*.db
+
+# VSCode
+.vscode/
+.history/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test/Temp files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Robocorp/Robot Framework Language Server
+.robotframework-ls/
+rfbrowser/
+rfbrowser-log/
+rfbrowser-video/
+rfbrowser
